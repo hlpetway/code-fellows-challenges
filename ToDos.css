@@ -1,0 +1,46 @@
+#header {
+    background-color:#B2E6FF;
+    border-radius: 4px;
+    padding: 5px
+}
+h2 {
+    color:#0099CC;
+    font-family: Arial;
+}
+input {
+    color: #0099CC;
+    padding: 7px;
+    border-radius: 4px;
+}
+form {
+    display:inline-block;
+}
+#button {
+    display: inline-block;
+    height:20px;
+    width:70px;
+    background-color:#0066CC;
+    font-family:arial;
+    font-weight:bold;
+    color:#ffffff;
+    border-radius: 5px;
+    text-align:center;
+    margin-top:2px;
+    padding: 1px;
+}
+.list {
+    display: clear;
+    font-family:garamond;
+    background-color: #85FFAD;
+    color:#407A53;
+    border-radius: 4px;
+    padding: 5px;
+}
+.item {
+    padding: 10px margin: 5px;
+    border-style: dotted;
+    border-width: 1px;
+    border-color: #509968;
+    border-radius: 4px;
+}
+}
